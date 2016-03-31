@@ -1,3 +1,10 @@
+/**
+ * Rafiq Dandoo
+ * Cmpt365 Spring 2016 - Final Project 
+ * Adaptive Huffman Encoding
+ * 
+**/
+
 #ifndef HUFFMAN_H
 #define HUFFMAN_H
 

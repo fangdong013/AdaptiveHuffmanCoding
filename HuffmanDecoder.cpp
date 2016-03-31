@@ -1,3 +1,10 @@
+/**
+ * Rafiq Dandoo
+ * Cmpt365 Spring 2016 - Final Project 
+ * Adaptive Huffman Encoding
+ * 
+**/
+
 #include <iostream>
 #include <map>
 #include <assert.h> 
