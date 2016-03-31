@@ -1,0 +1,11 @@
+Adaptive Huffman Encoder and Decoder By Rafiq Dandoo
+
+Building:
+    Just run make
+    
+Usage:
+
+    ./HuffmanEncoder < <test file> > <code>
+    ./HuffmanDecoder < <code> > results
+    
+    
