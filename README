@@ -7,5 +7,7 @@ Usage:
 
     ./HuffmanEncoder < <test file> > <code>
     ./HuffmanDecoder < <code> > results
-    
+
+
+There are a few sample test files already created.
     
